@@ -1,5 +1,5 @@
 ### 高中文組✒️、大學體院🏀，畢業後當打工仔🏄。
-### [Leetcode Problems Solved : 676](https://leetcode.com/moodoa/)
+### [Leetcode Problems Solved : 689](https://leetcode.com/moodoa/)
 
 
 <!--
