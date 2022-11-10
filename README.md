@@ -1,6 +1,6 @@
 ### ✒️高中文組、🏀大學體院，🏄畢業後當打工仔。
 
-### [Leetcode Problems Solved : 725](https://leetcode.com/moodoa/)
+### [Leetcode Problems Solved : 743](https://leetcode.com/moodoa/)
 
 ### 🔭我的自由研究：
 ### 🔹[《關於這幾年的遊戲趨勢-Steam》](https://medium.com/@genius_peach_oyster_117/%E9%97%9C%E6%96%BC%E9%80%99%E5%B9%BE%E5%B9%B4%E7%9A%84%E9%81%8A%E6%88%B2%E8%B6%A8%E5%8B%A2-steam-c70e37547c28)
