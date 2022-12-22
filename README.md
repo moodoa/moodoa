@@ -3,6 +3,7 @@
 ### [Leetcode Problems Solved : 773 ](https://leetcode.com/moodoa/)
 
 ### 🔭我的自由研究：
+### 🔸[《台灣萬惡城市》](https://medium.com/@genius_peach_oyster_117/%E5%8F%B0%E7%81%A3%E8%90%AC%E6%83%A1%E5%9F%8E%E5%B8%82-6c3d7355930b)
 ### 🔹[《關於這幾年的遊戲趨勢-Steam》](https://medium.com/@genius_peach_oyster_117/%E9%97%9C%E6%96%BC%E9%80%99%E5%B9%BE%E5%B9%B4%E7%9A%84%E9%81%8A%E6%88%B2%E8%B6%A8%E5%8B%A2-steam-c70e37547c28)
 ### 🔸[《報新聞的來源都是網友說的話》](https://medium.com/@genius_peach_oyster_117/%E5%A0%B1%E6%96%B0%E8%81%9E%E7%9A%84%E4%BE%86%E6%BA%90%E9%83%BD%E6%98%AF%E7%B6%B2%E5%8F%8B%E8%AA%AA%E7%9A%84%E8%A9%B1-9b03d4ddffca)
 ### 🔹[《錢沒辦法帶來幸福，但酒可以》](https://medium.com/@genius_peach_oyster_117/%E9%8C%A2%E6%B2%92%E8%BE%A6%E6%B3%95%E5%B8%B6%E4%BE%86%E5%B9%B8%E7%A6%8F-%E4%BD%86%E9%85%92%E5%8F%AF%E4%BB%A5-7ead4ac4fffa)
