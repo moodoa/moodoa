@@ -1,6 +1,6 @@
 ### 🏈快樂ㄉ待業仔。
 
-### [Leetcode Problems Solved : 815 ](https://leetcode.com/moodoa/)
+### [Leetcode Problems Solved : 832 ](https://leetcode.com/moodoa/)
 
 ### 🔭我的自由研究：
 ### 🔸[《台灣萬惡城市》](https://medium.com/@genius_peach_oyster_117/%E5%8F%B0%E7%81%A3%E8%90%AC%E6%83%A1%E5%9F%8E%E5%B8%82-6c3d7355930b)
