@@ -1,4 +1,3 @@
-### 🏈快樂ㄉ待業仔。
 
 ### [Leetcode Problems Solved : 900 ](https://leetcode.com/moodoa/)
 
