@@ -1,5 +1,5 @@
 
-### [Leetcode Problems Solved : 900 ](https://leetcode.com/moodoa/)
+### [Leetcode Problems Solved : 1000 ](https://leetcode.com/moodoa/)
 
 ### 🔭我的自由研究：
 ### 🔹[《藝術的價值》](https://medium.com/@genius_peach_oyster_117/%E8%97%9D%E8%A1%93%E7%9A%84%E5%83%B9%E5%80%BC-6a5538715c48)
