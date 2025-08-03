@@ -1,4 +1,4 @@
-### 我不是練身體的工程師，而是會寫程式的運動員。
+### 會寫程式的文組體大仔
 ### [Leetcode Problems Solved : 1000 ](https://leetcode.com/moodoa/)
 
 ### 🔭我的自由研究：
